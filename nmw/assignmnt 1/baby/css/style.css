@@ -1,0 +1,97 @@
+header
+{
+background-image:url("../img/nature.jpg");
+min-height:400px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+img{width:10%;
+    padding:20;
+    float:left;
+    }
+li{display: inline-block;
+padding: 10px;
+float: right}
+li a{
+    text-decoration: none;
+    font-size: 24px;
+    color: aliceblue;
+}
+.cp
+{
+    float:left;
+      
+}
+.photo
+{float:right;
+    
+}
+input-box{
+    width:49.2%
+        display:block;
+    float:left;
+    margin-top:15px;
+}
+.style{
+    background-color:aqua;
+}
+
+form{
+	float:center;
+	margin-top:300px;
+	padding:40px;
+	border-style:solid;
+        border-radius:20px;
+background-color:skyblue}
+
+margin-left:30PX;
+form input[type="submit"]{
+	margin-top:150px;
+	width:120px;
+	height:30px;
+	}form input[type="reset"]{
+	margin-top:15px;
+	width:120px;
+	height:30px;
+text-align:center;
+
+	}
+
+	
+	
+	side-bar{
+		margin-top:40px;
+		float:right;
+		width:30%;
+	}
+	
+	side-bar input[type="text"]{
+	width:150px;
+	
+	
+	padding:15px;
+	border-radius:15px 15px 15px 15px;
+}
+
+	
+	.side-bar input[type="submit"]{
+	width:150px;
+	
+	
+	padding:15px;
+	border-radius:10px;
+}
+	.side-bar input[type="reset"]{
+	width:150px;
+	height:50px;	
+
+}
+
+
+
+	.side-bar input[type="email"]{
+	width:150px;
+	
+	border-radius:15px 15px 15px 15px;
+	padding:15px;
+}
