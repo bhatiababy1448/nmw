@@ -1,0 +1,93 @@
+/* design*/
+
+
+/* design*/
+
+/*page1*/
+
+.mynavbar{
+    background-color: darkslateblue !important;
+    text-align: right;
+}
+;
+    
+}
+.sidebar{
+    padding-left:1000px;
+    float:right !important;
+}
+
+
+
+
+
+.HELLO{
+        background-color: cornflowerblue;
+        padding: 150px;
+        text-align: center;
+        color: white;
+        font-size:30opx;
+        padding-top: 100px;
+      background-color: cornflowerblue;
+      background-size: auto;
+      height: 200px;
+}
+
+}
+
+
+/*page1*/
+
+
+
+ul{
+    text-decoration: none;
+    list-style: none;
+}
+li{
+
+    display: inline;
+}
+
+
+/*page2*/
+.image{
+    background-image: url(../img/Water-Drop-Hd-Wallpaper-3d-background-images-for-websites-hd.jpg);
+    height:500px;
+    background-size: cover;
+}
+.image1{
+    background-image: url(../img/126758-amazing-library-background-2250x1184-meizu.jpg);
+    background-size: cover;
+    height: 250px;
+}
+.image2{
+    background-image: url(../img/internet-protection-tech.jpg);
+    background-size:cover;
+    height:250px;
+}
+.image3{
+    background-image: url(../img/iStock-494617082.jpg);
+    background-size:cover;
+    height:250px;
+}
+.image4{
+    background-image: url(../img/free-stock-photography-websites.jpg);
+    background-size:cover;
+    height:250px; 
+}
+.para{
+    text-align: center;
+}
+.foot{
+    margin-top:300px;
+    text-align: center;
+    background-color: cornflowerblue;
+    padding: 100px;
+}
+.para2{
+    text-align: center;
+}
+.para3{
+    text-align: center;
+}
