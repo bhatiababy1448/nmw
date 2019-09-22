@@ -1,0 +1,138 @@
+*{
+    box-sizing: border-box;
+  
+}
+.B{
+    float:left;
+    width: 100%;
+}
+.C{
+    width:25%;
+    float:left;
+    text-align: center;
+
+
+}
+.D{
+    width:25%;
+    float:left;
+    text-align: center;
+}
+.E{
+    width:25%;
+    float:left;
+    text-align: center;
+}
+.F{
+    width:25%;
+    float:left;
+    text-align: center;
+}
+
+
+
+.B{
+    float:left;
+    width: 100%;
+}
+.G{
+    width:25%;
+    float:left;
+    text-align: center;
+
+}
+
+.H{
+    width:25%;
+    float:left;
+    text-align: center;
+}
+.I{
+    width:25%;
+    float:left;
+    text-align: center;
+}
+.J{
+    width:25%;
+    float:left;
+    text-align: center;
+}
+.B{
+    float:left;
+    width: 100%;
+}
+.K{
+    width:25%;
+    float:left;
+    text-align: center;
+
+}
+
+.L{
+    width:25%;
+    float:left;
+    text-align: center;
+}
+.M{
+    width:25%;
+    float:left;
+    text-align: center;
+}
+.N{
+    width:25%;
+    float:left;
+    text-align: center;
+}
+
+
+
+.B{
+    float:left;
+    width: 100%;
+}
+.O{
+    width:25%;
+    float:left;
+    text-align: center;
+
+
+}
+.P{
+    width:25%;
+    float:left;
+    text-align: center;
+}
+.Q{
+    width:25%;
+    float:left;
+    text-align: center;
+}
+.R{
+    width:25%;
+    float:left;
+    text-align: center;
+}
+
+
+.containerImg{
+    width:18rem;
+}
+.text {
+height: 250px;
+    width: 340px;
+    opacity: 0;
+    background: #fff;
+}
+.c:hover .text
+{
+    opacity: 0.6;
+    text-align: justify;
+    color: aqua;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: "lucida handwriting",serif;
+    position: relative;
+    bottom: 30px;
+    left: 0;
+    
+}
